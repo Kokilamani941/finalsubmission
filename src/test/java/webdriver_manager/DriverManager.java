@@ -19,6 +19,7 @@ public class DriverManager {
 		return driver;
 	}
 
+	//Browser driver setup automatically.
 	public static void launchBrowser() {
 		try {
 			

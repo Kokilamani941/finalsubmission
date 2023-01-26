@@ -4,6 +4,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 
+import io.cucumber.java.After;
 import io.cucumber.java.Before;
 
 import utilities.common_utils;
@@ -36,6 +37,12 @@ public class common_step_definition {
 		{
 			e.printStackTrace();
 		}
+	}
+	
+	@After
+	public void afterScenario()
+	{
+		//DriverManager.getDriver().quit();
 	}
 
 }

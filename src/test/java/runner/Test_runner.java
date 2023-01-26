@@ -10,8 +10,9 @@ import io.cucumber.junit.CucumberOptions;
 	features="src/test/resources/features",
 	glue="step_definitions",
 	dryRun=false,
-	monochrome=true
-	
+	monochrome=true,
+	tags = "@TestSuit_Array_11",
+	plugin = { "pretty", "html:target/DsalgoXpathers.html" }
 )
 public class Test_runner {
 
