@@ -1,0 +1,162 @@
+2023-02-05 10:52:49,991 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-05 10:52:50,005 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-05 10:52:58,343 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
+2023-02-05 10:52:58,870 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
+2023-02-05 10:52:59,433 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
+2023-02-05 10:53:00,611 [INFO ] step_definitions.Array_Stepdef [main] User clicked Find Numbers with Even Number of Digits link
+2023-02-05 10:53:00,631 [INFO ] step_definitions.Array_Stepdef [main] User in question page
+2023-02-05 10:53:00,632 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
+2023-02-05 10:53:00,639 [INFO ] step_definitions.Array_Stepdef [main] Arraylist count :0
+2023-02-05 10:57:42,630 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-05 10:57:42,664 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-05 10:58:02,818 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
+2023-02-05 10:58:03,033 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
+2023-02-05 10:58:03,207 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
+2023-02-05 10:58:03,792 [INFO ] step_definitions.Array_Stepdef [main] User clicked Find Numbers with Even Number of Digits link
+2023-02-05 10:58:03,806 [INFO ] step_definitions.Array_Stepdef [main] User in question page
+2023-02-05 10:58:03,807 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
+2023-02-05 10:59:04,249 [INFO ] step_definitions.Array_Stepdef [main] Arraylist count :0
+2023-02-05 11:02:15,485 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-05 11:02:15,490 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-05 11:02:18,616 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
+2023-02-05 11:02:18,818 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
+2023-02-05 11:02:18,974 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
+2023-02-05 11:02:19,510 [INFO ] step_definitions.Array_Stepdef [main] User clicked Find Numbers with Even Number of Digits link
+2023-02-05 11:02:19,518 [INFO ] step_definitions.Array_Stepdef [main] User in question page
+2023-02-05 11:02:19,518 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
+2023-02-05 11:02:19,522 [INFO ] step_definitions.Array_Stepdef [main] Arraylist count :0
+2023-02-05 11:04:41,395 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-05 11:04:41,399 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-05 11:04:44,452 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
+2023-02-05 11:04:44,653 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
+2023-02-05 11:04:44,811 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
+2023-02-05 11:04:45,376 [INFO ] step_definitions.Array_Stepdef [main] User clicked Find Numbers with Even Number of Digits link
+2023-02-05 11:04:45,382 [INFO ] step_definitions.Array_Stepdef [main] User in question page
+2023-02-05 11:04:45,382 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
+2023-02-05 11:04:45,385 [INFO ] step_definitions.Array_Stepdef [main] Arraylist count :0
+2023-02-05 11:11:02,606 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-05 11:11:02,614 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-05 11:11:06,437 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
+2023-02-05 11:11:06,673 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
+2023-02-05 11:11:06,838 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
+2023-02-05 11:11:07,429 [INFO ] step_definitions.Array_Stepdef [main] User clicked Find Numbers with Even Number of Digits link
+2023-02-05 11:11:07,437 [INFO ] step_definitions.Array_Stepdef [main] User in question page
+2023-02-05 11:11:07,437 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
+2023-02-05 11:12:24,118 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-05 11:12:24,122 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-05 11:12:27,156 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
+2023-02-05 11:12:27,389 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
+2023-02-05 11:12:27,557 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
+2023-02-05 11:12:28,080 [INFO ] step_definitions.Array_Stepdef [main] User clicked Find Numbers with Even Number of Digits link
+2023-02-05 11:12:28,091 [INFO ] step_definitions.Array_Stepdef [main] User in question page
+2023-02-05 11:12:28,091 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
+2023-02-05 11:12:28,094 [INFO ] step_definitions.Array_Stepdef [main] Arraylist count :0
+2023-02-05 11:13:51,500 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-05 11:13:51,504 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-05 11:13:54,538 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
+2023-02-05 11:13:54,754 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
+2023-02-05 11:13:54,906 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
+2023-02-05 11:13:55,473 [INFO ] step_definitions.Array_Stepdef [main] User clicked Find Numbers with Even Number of Digits link
+2023-02-05 11:13:55,480 [INFO ] step_definitions.Array_Stepdef [main] User in question page
+2023-02-05 11:13:55,480 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
+2023-02-05 11:13:56,034 [INFO ] step_definitions.Array_Stepdef [main] Arraylist count :2
+2023-02-05 11:24:51,201 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-05 11:24:51,206 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-05 11:24:54,821 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
+2023-02-05 11:24:55,014 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
+2023-02-05 11:24:55,176 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
+2023-02-05 11:24:55,730 [INFO ] step_definitions.Array_Stepdef [main] User clicked Find Numbers with Even Number of Digits link
+2023-02-05 11:24:55,738 [INFO ] step_definitions.Array_Stepdef [main] User in question page
+2023-02-05 11:24:55,738 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
+2023-02-05 11:24:56,181 [INFO ] step_definitions.Array_Stepdef [main] Arraylist count :2
+2023-02-05 11:27:25,401 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-05 11:27:25,404 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-05 11:36:56,232 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-05 11:36:56,235 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-05 11:36:59,511 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
+2023-02-05 11:36:59,734 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
+2023-02-05 11:36:59,891 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
+2023-02-05 11:37:00,376 [INFO ] step_definitions.Array_Stepdef [main] User clicked Squares of a Sorted Array link
+2023-02-05 11:37:00,386 [INFO ] step_definitions.Array_Stepdef [main] User in question page
+2023-02-05 11:37:00,388 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
+2023-02-05 11:37:00,842 [INFO ] step_definitions.Array_Stepdef [main] Arraylist count :2
+2023-02-05 11:38:59,477 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-05 11:38:59,483 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-05 11:39:04,609 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
+2023-02-05 11:39:04,872 [INFO ] step_definitions.Array_Stepdef [main] User clicked Arrays in Python
+2023-02-05 11:39:04,880 [INFO ] step_definitions.Array_Stepdef [main] User in page arrays-in-python
+2023-02-05 11:39:05,108 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-05 11:39:05,109 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-05 11:39:05,961 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
+2023-02-05 11:39:06,113 [INFO ] step_definitions.Array_Stepdef [main] User clicked Arrays in Python
+2023-02-05 11:39:07,021 [INFO ] step_definitions.Array_Stepdef [main] User in tryEditor page
+2023-02-05 11:39:07,252 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-05 11:39:07,253 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-05 11:39:10,187 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
+2023-02-05 11:39:10,399 [INFO ] step_definitions.Array_Stepdef [main] User clicked Arrays using List
+2023-02-05 11:39:10,547 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-05 11:39:10,548 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-05 11:39:11,461 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
+2023-02-05 11:39:11,635 [INFO ] step_definitions.Array_Stepdef [main] User clicked Arrays using List
+2023-02-05 11:39:12,285 [INFO ] step_definitions.Array_Stepdef [main] User in tryEditor page
+2023-02-05 11:39:12,569 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-05 11:39:12,569 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-05 11:39:15,520 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
+2023-02-05 11:39:15,725 [INFO ] step_definitions.Array_Stepdef [main] User clicked Basic Operations in List
+2023-02-05 11:39:15,736 [INFO ] step_definitions.Array_Stepdef [main] User in page basic-operations-in-lists
+2023-02-05 11:39:15,937 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-05 11:39:15,938 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-05 11:39:16,865 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
+2023-02-05 11:39:17,021 [INFO ] step_definitions.Array_Stepdef [main] User clicked Basic Operations in List page link
+2023-02-05 11:39:17,669 [INFO ] step_definitions.Array_Stepdef [main] User in tryEditor page
+2023-02-05 11:39:17,984 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-05 11:39:17,984 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-05 11:39:20,991 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
+2023-02-05 11:39:21,227 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array
+2023-02-05 11:39:21,234 [INFO ] step_definitions.Array_Stepdef [main] User in page applications-of-array
+2023-02-05 11:39:21,448 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-05 11:39:21,448 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-05 11:39:22,373 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
+2023-02-05 11:39:22,533 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
+2023-02-05 11:39:23,189 [INFO ] step_definitions.Array_Stepdef [main] User in tryEditor page
+2023-02-05 11:39:23,421 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-05 11:39:23,422 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-05 11:39:26,394 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
+2023-02-05 11:39:26,735 [INFO ] step_definitions.Array_Stepdef [main] User clicked Practice Questions
+2023-02-05 11:39:26,742 [INFO ] step_definitions.Array_Stepdef [main] User in page practice
+2023-02-05 11:39:26,953 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-05 11:39:26,953 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-05 11:39:27,862 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
+2023-02-05 11:39:28,014 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
+2023-02-05 11:39:28,209 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
+2023-02-05 11:39:28,513 [INFO ] step_definitions.Array_Stepdef [main] User clicked Search the array link
+2023-02-05 11:39:28,520 [INFO ] step_definitions.Array_Stepdef [main] User in question page
+2023-02-05 11:39:28,520 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
+2023-02-05 11:39:28,952 [INFO ] step_definitions.Array_Stepdef [main] Arraylist count :2
+2023-02-05 11:39:29,161 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-05 11:39:29,161 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-05 11:39:30,023 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
+2023-02-05 11:39:30,184 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
+2023-02-05 11:39:30,388 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
+2023-02-05 11:39:30,618 [INFO ] step_definitions.Array_Stepdef [main] User clicked Max Consecutive Ones link
+2023-02-05 11:39:30,623 [INFO ] step_definitions.Array_Stepdef [main] User in question page
+2023-02-05 11:39:30,624 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
+2023-02-05 11:39:30,647 [INFO ] step_definitions.Array_Stepdef [main] Arraylist count :2
+2023-02-05 11:39:30,800 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-05 11:39:30,801 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-05 11:39:31,644 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
+2023-02-05 11:39:31,788 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
+2023-02-05 11:39:31,961 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
+2023-02-05 11:39:32,161 [INFO ] step_definitions.Array_Stepdef [main] User clicked Find Numbers with Even Number of Digits link
+2023-02-05 11:39:32,169 [INFO ] step_definitions.Array_Stepdef [main] User in question page
+2023-02-05 11:39:32,169 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
+2023-02-05 11:39:32,189 [INFO ] step_definitions.Array_Stepdef [main] Arraylist count :2
+2023-02-05 11:39:32,352 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-05 11:39:32,352 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-05 11:39:33,209 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
+2023-02-05 11:39:33,392 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
+2023-02-05 11:39:33,553 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
+2023-02-05 11:39:33,767 [INFO ] step_definitions.Array_Stepdef [main] User clicked Squares of a Sorted Array link
+2023-02-05 11:39:33,773 [INFO ] step_definitions.Array_Stepdef [main] User in question page
+2023-02-05 11:39:33,773 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
+2023-02-05 11:39:33,793 [INFO ] step_definitions.Array_Stepdef [main] Arraylist count :2
