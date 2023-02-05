@@ -55,7 +55,7 @@ Given user is in  Array page after logged in
 When user clicks "Practice Questions" button
 Then user should be redirected to "practice" page
 		
-@TestSuit_Array_10VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+@TestSuit_Array_10
 Scenario: Launching Search  array link of an dsalgo project		
 Given user is in  Practice page
 When user clicks "Search the array" link
@@ -75,6 +75,6 @@ Then user should be redirected to "Question" page contains questions,an tryEdito
 		
 @TestSuit_Array_13
 Scenario: Launching Squares of a  Sorted Array link of an dsalgo project		
-Given	user is in  Practice page
+Given user is in  Practice page
 When user clicks "Squares of a Sorted Array" link
 Then user should be redirected to "Question" page contains questions,an tryEditor  to write code with Run and Submit buttons

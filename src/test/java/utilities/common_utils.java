@@ -52,9 +52,11 @@ public class common_utils {
 	
 	public ArrayList<ArrayList<String>> readExcelData()
 	{
-		ArrayList<ArrayList<String>> arrLL = new ArrayList<ArrayList<String>>();	    
-			
-		File f = new File(Constants.EXCEL_PATH);
+		ArrayList<ArrayList<String>> arrLL = new ArrayList<ArrayList<String>>();
+		   
+		File f = new File(this.getClass().getResource("/TestCaseData.xlsx").getFile());
+		System.out.println(f.getAbsoluteFile());
+		
 		FileInputStream fis;
 		XSSFWorkbook excelWorkbook;
 		XSSFSheet excelSheet;
