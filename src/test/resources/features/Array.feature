@@ -1,4 +1,4 @@
-@home
+@Array
 Feature: launching dsalgo application load Array page
 
 @TestSuit_Array_01

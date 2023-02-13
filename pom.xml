@@ -3,7 +3,20 @@
   <groupId>DSALGOPROJECT</groupId>
   <artifactId>Dsalgoxpathers</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
+  <properties>
+   <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+   <rest-assured.version>4.4.0</rest-assured.version>
+   <allure.junit4.version>2.14.0</allure.junit4.version>
+   <allure.rest-assured.version>2.14.0</allure.rest-assured.version>
+   <jackson.version>2.12.3</jackson.version>
+   <json.version>20210307</json.version>
+   <maven.compiler.plugin.version>3.5.1</maven.compiler.plugin.version>
+   <maven.compiler.source>11</maven.compiler.source>
+   <maven.compiler.target>11</maven.compiler.target>
+   <aspectj.version>1.9.6</aspectj.version>
+   <maven-surefire-plugin-version>3.0.0-M5</maven-surefire-plugin-version>
+   <allure.maven.version>2.10.0</allure.maven.version>
+ </properties>
   <build>
 		<plugins>
 			<plugin>
@@ -26,7 +39,50 @@
 					<source>1.8</source>
 					<target>1.8</target>
 				</configuration>
+			
+				
 			</plugin>
+			<plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+               <version>${maven.compiler.plugin.version}</version>
+                <configuration>
+                    <source>${maven.compiler.source}</source> <!--For JAVA 8 use 1.8-->
+                    <target>${maven.compiler.target}</target> <!--For JAVA 8 use 1.8-->
+                </configuration>
+            </plugin>
+			 <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-surefire-plugin</artifactId>
+            <version>${maven-surefire-plugin-version}</version>
+            <configuration>
+                <testFailureIgnore>false</testFailureIgnore>
+                <argLine>
+                    -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
+                </argLine>
+                <properties>
+                    <property>
+                        <name>listener</name>
+                        <value>io.qameta.allure.junit4.AllureJunit4</value>
+                    </property>
+                </properties>
+            </configuration>
+            <dependencies>
+                <dependency>
+                    <groupId>org.aspectj</groupId>
+                    <artifactId>aspectjweaver</artifactId>
+                    <version>${aspectj.version}</version>
+                </dependency>
+            </dependencies>
+        </plugin>
+        <plugin>
+                <groupId>io.qameta.allure</groupId>
+                <artifactId>allure-maven</artifactId>
+                <version>${allure.maven.version}</version>
+                 <configuration>
+                    <reportVersion>2.4.1</reportVersion>
+                </configuration>
+            </plugin>
 		</plugins>
 	</build>
     <dependencies>
@@ -43,8 +99,45 @@
     <artifactId>poi</artifactId>
     <version>5.2.3</version>
 </dependency>
-
+<!--Allure Reporting Dependency-->   
+<dependency>
+    <groupId>io.qameta.allure</groupId>
+    <artifactId>allure-rest-assured</artifactId>
+    <version>${allure.rest-assured.version}</version>
+</dependency>
 <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
+
+     
+    <dependency>
+        <groupId>io.qameta.allure</groupId>
+        <artifactId>allure-junit4</artifactId>
+        <version>${allure.junit4.version}</version>
+        <scope>test</scope>
+    </dependency>   
+     
+   <!-- Rest Assured Dependency -->
+    <dependency>
+       <groupId>io.rest-assured</groupId>
+       <artifactId>rest-assured</artifactId>
+       <version>${rest-assured.version}</version>
+       <scope>test</scope>
+    </dependency>
+ 
+    <!-- Jackson Dependency -->
+    <dependency>
+       <groupId>com.fasterxml.jackson.core</groupId>
+       <artifactId>jackson-databind</artifactId>
+       <version>${jackson.version}</version>
+    </dependency>
+ 
+    <!-- JSON Dependency -->
+    <dependency>
+       <groupId>org.json</groupId>
+       <artifactId>json</artifactId>
+       <version>${json.version}</version>
+    </dependency>  
+ 
+
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
@@ -96,6 +189,12 @@
     <scope>test</scope>
 </dependency>
 
+<!-- https://mvnrepository.com/artifact/io.qameta.allure/allure-testng -->
+		<dependency>
+			<groupId>io.qameta.allure</groupId>
+			<artifactId>allure-testng</artifactId>
+			<version>2.20.1</version>
+		</dependency>
 
 <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-testng -->
 <dependency>

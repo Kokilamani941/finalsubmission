@@ -14,6 +14,7 @@ import org.openqa.selenium.support.PageFactory;
 import constants.Constants;
 import page_objects.ArrayPage;
 import page_objects.HomePage;
+import page_objects.Linkedlistpage;
 import page_objects.Registerpage;
 import page_objects.SigninPage;
 import webdriver_manager.DriverManager;
@@ -48,6 +49,7 @@ public class common_utils {
 		PageFactory.initElements(DriverManager.getDriver(), Registerpage.getInstance());
 		PageFactory.initElements(DriverManager.getDriver(), SigninPage.getInstance());
 		PageFactory.initElements(DriverManager.getDriver(), ArrayPage.getInstance());
+		PageFactory.initElements(DriverManager.getDriver(), Linkedlistpage.getInstance());
 	}
 	
 	public ArrayList<ArrayList<String>> readExcelData()

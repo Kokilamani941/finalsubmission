@@ -1,7 +1,7 @@
 @home
 Feature: To launching dsalgo application and to test Home page
 
-    @TestSuit_home
+    @TestSuit_home01
     Scenario: Launching home page of an dsalgo project
     Given User opens DS Algo portal link
     When  User clicks Get Started button
@@ -25,5 +25,4 @@ Feature: To launching dsalgo application and to test Home page
     Given User is in Home page
     When  User clicks on register link
     Then  User to open Registration page
-    
     
